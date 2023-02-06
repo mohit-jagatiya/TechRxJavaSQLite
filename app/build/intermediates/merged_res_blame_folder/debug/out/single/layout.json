@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.techextensor.rxjava.app-mergeDebugResources-32:/layout/activity_login.xml",
+        "source": "com.techextensor.rxjava.app-main-35:/layout/activity_login.xml"
+    }
+]
